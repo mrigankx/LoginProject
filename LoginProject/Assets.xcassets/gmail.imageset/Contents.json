@@ -1,11 +1,12 @@
 {
   "images" : [
     {
-      "filename" : "gmail.png",
+      "filename" : "gmail-1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "gmail.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
